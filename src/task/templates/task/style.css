@@ -1,0 +1,13 @@
+.center{
+    width: 500px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 20px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
